@@ -1,0 +1,38 @@
+
+/* SIMON SAYS */
+body{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 15px;
+    border-radius: 30%;
+}
+
+.red{
+    background-color: rgb(155, 59, 59);
+}
+
+.blue{
+    background-color: rgb(74, 74, 178);
+}
+
+.green{
+    background-color: rgb(50, 145, 50);
+}
+
+.pink{
+    background-color: rgb(169, 68, 150);
+}
+
+.flash{
+    background-color: white;
+} 
